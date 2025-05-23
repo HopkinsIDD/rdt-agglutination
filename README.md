@@ -1,1 +1,1 @@
-Data are provided here from _Rapid tests as a practical alternative to slide agglutination for the confirmation of V. cholerae O1_ by Bhattacharjee et al. 
+Data are provided here from _Rapid tests as a practical alternative to slide agglutination for the confirmation of V. cholerae O1_ by Bhattacharjee et al. Field names should be fairly obvious but if you have any questions about interpretation please fee free to get in touch (azman[at]jhu.edu) or file an issue here. 
